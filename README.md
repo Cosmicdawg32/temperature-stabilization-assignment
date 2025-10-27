@@ -1,6 +1,6 @@
 # Temperature stabilization using inter-process communication
 ### Solution Screenshot
-![Solution](./solution.png)
+![Solution](./Solution.png)
 
 ### :warning: This is a Linux/Unix OS assignment. It is not an OS/161 Assignment
 
